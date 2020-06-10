@@ -2,10 +2,10 @@
 page_title: # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id: 1511398926 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id: 1516860157 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link: # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link: https://play.google.com/store/apps/details?id=com.nosuke.rapid
+playstore_link: https://play.google.com/store/apps/details?id=com.nosuke.yomoo
 
 # Enter Google Play Store URL.
 # presskit_download_link                    : https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
@@ -14,7 +14,7 @@ playstore_link: https://play.google.com/store/apps/details?id=com.nosuke.rapid
 app_icon: # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price: 無料 # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description: アプリを開いて2秒で記録！！爆速ToDoメモアプリ
+app_description: シンプル、美しい読書管理アプリ
 
 enable_smart_app_banner: true # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -31,16 +31,20 @@ youtube_username:
 
 # Feature List                            Edit, add or remove features to be presented.
 features:
-  - title: "素早く記録"
-    description: "起動と同時にキーボードが立ち上がり、さっとメモができます。"
+  - title: "洗練されたデザイン"
+    description: "余計な機能は一切なし。あなたの思考を邪魔しないデザイン"
     fontawesome_icon_name: tasks
 
-  - title: "Todoアプリ・メモ両方使える"
-    description: "詳細も記載できるので、メモとしても使用可能"
+  - title: "シンプルな操作"
+    description: "「読んだ」「読みたい」の二種類に分けるだけ"
+    fontawesome_icon_name: sticky-note
+    
+  - title: "金額、冊数も管理"
+    description: "読書にかけた金額、読んだ冊数をグラフで表示"
     fontawesome_icon_name: sticky-note
 
-  - title: "フォームとリストが一画面に"
-    description: "入力画面とリスト一覧を同時に確認可能。画面の比率を変更できます。"
+  - title: "バーコードで簡単読み取り"
+    description: "本はバーコードで読み取り可能"
     fontawesome_icon_name: mobile-alt
 
 # Theme Settings
