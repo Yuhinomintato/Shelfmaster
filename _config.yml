@@ -33,19 +33,19 @@ youtube_username:
 features:
   - title: "洗練されたデザイン"
     description: "余計な機能は一切なし。あなたの思考を邪魔しないデザイン"
-    fontawesome_icon_name: tasks
+    fontawesome_icon_name: lightbulb
 
   - title: "シンプルな操作"
     description: "「読んだ」「読みたい」の二種類に分けるだけ"
-    fontawesome_icon_name: sticky-note
+    fontawesome_icon_name: book
     
   - title: "金額、冊数も管理"
     description: "読書にかけた金額、読んだ冊数をグラフで表示"
-    fontawesome_icon_name: sticky-note
+    fontawesome_icon_name: chart-line
 
   - title: "バーコードで簡単読み取り"
     description: "本はバーコードで読み取り可能"
-    fontawesome_icon_name: mobile-alt
+    fontawesome_icon_name: search
 
 # Theme Settings
 topbar_color: "#000000"
