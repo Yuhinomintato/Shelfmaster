@@ -12,7 +12,7 @@ include_in_header: true
 
 # **Version 1.0**
 
-「爆速ToDoメモ」 iOS版をリリースしました。
+「Yomoo」 iOS版をリリースしました。
 
 <br>
 
