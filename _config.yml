@@ -34,6 +34,10 @@ features:
   - title: "洗練されたデザイン"
     description: "余計な機能は一切なし。あなたの思考を邪魔しないデザイン"
     fontawesome_icon_name: lightbulb
+    
+  - title: "広告は一切なし"
+    description: "無料アプリにありがちな広告は、Yomooには一切ありません。"
+    fontawesome_icon_name: ban
 
   - title: "シンプルな操作"
     description: "「読んだ」「読みたい」の二種類に分けるだけ"
@@ -44,7 +48,7 @@ features:
     fontawesome_icon_name: chart-line
 
   - title: "バーコードで簡単読み取り"
-    description: "本はバーコードで読み取り可能"
+    description: "本はバーコードで読み取れます。タイトル・著者名を入力して検索することもできます。"
     fontawesome_icon_name: search
 
 # Theme Settings
