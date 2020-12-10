@@ -34,7 +34,6 @@ features:
   - title: "洗練されたデザイン"
     description: "余計な機能は一切なし。あなたの思考を邪魔しないデザイン"
     fontawesome_icon_name: lightbulb
-    
 
   - title: "シンプルな操作"
     description: "「読んだ」「読みたい」の二種類に分けるだけ"
