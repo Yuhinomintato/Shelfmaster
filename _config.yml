@@ -35,9 +35,6 @@ features:
     description: "余計な機能は一切なし。あなたの思考を邪魔しないデザイン"
     fontawesome_icon_name: lightbulb
     
-  - title: "広告は一切なし"
-    description: "無料アプリにありがちな広告は、Yomooには一切ありません。"
-    fontawesome_icon_name: ban
 
   - title: "シンプルな操作"
     description: "「読んだ」「読みたい」の二種類に分けるだけ"
