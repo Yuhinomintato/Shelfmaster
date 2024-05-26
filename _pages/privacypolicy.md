@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-2020 年 6 月 10 日
+2025 年 5 月 26 日
 
 # プライバシーポリシー
 
